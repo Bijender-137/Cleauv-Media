@@ -39,7 +39,7 @@ function App() {
         <Accordian />
         <MyFooter />
         <BackTop />
-        {/* <Preloader /> */}
+        <Preloader />
       </div>
     </>
   );
