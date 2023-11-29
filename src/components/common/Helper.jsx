@@ -131,13 +131,7 @@ export const Pricing = [
     IconText2: "Unlimited brands",
     IconText3: "Full ownership of design",
     btn: "Get Started",
-    submap: [
-      // {
-      //   id: 1,
-      //   img: Right_icon,
-      //   IconText4: "Pause or cancel anytime",
-      // },
-    ],
+    submap: [],
   },
   {
     id: 3,
